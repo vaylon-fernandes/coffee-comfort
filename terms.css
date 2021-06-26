@@ -1,0 +1,25 @@
+.terms {
+  display: flex;
+  flex-direction: column;
+}
+.terms-section-1 {
+  display: flex;
+  padding-top: 3.2rem !important;
+  padding-bottom: 3.2rem !important;
+  justify-content: center !important;
+  text-align: center !important;
+  font-size: 16px;
+}
+
+.terms-section-2 {
+  margin-top: 32px;
+  max-width: 1440px;
+  line-height: 24px;
+  font-weight: 400;
+  display: flex;
+  padding: 0 200px;
+  justify-content: center !important;
+  text-align: center !important;
+  font-size: 16px;
+  margin-bottom: 32px;
+}
